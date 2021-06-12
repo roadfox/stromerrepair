@@ -45,3 +45,42 @@ Fraglich ob mit kleinem gestartet und Code nachher auf grösseres Board umgezoge
 ## Diskussionsforum:
 
 Stromerforum: https://stromerforum.ch/showthread.php?tid=2967
+
+# Hardware des Stromers
+
+## Motor
+
+## Torque Sensor
+Der Torque Sensor ist von der Firma IDBike und im Schaltauge integriert.
+
+http://www.idbike.com/sensors
+
+### Specifications TMM Sensor Unit
+
+`Supply voltage: 	5 V
+Output voltage: 	0,1 V- 4,9 V 
+Measuring range sensor unit: 	120 Nm ( High sensitivity) / 300 Nm  (medium sensitivity)
+Sensitivity TMM sensor unit: 	 40 Nm/V (High sensitivity)/ 100 Nm/V  (medium sensitivity)
+Tolerance on sensitivity: 	< 3 %
+Allowable range ZTV (zero torque value): 	  0,5-2 V 
+Temperature influence: 	< 1 mV/ ºC
+Electrical disturbance: 	< 10 mV
+Effect of moisture: 	< 10 mV
+Operational temperature: 	-10 - 60 ºC
+Storage temperature: 	-40 - 85 ºC
+Durability: 	At least 10 million cycles
+Protection Class: 	IP66 >> protection aigainst water and dust`
+
+Auf eine Anfrage an IDBike ob es denn aftermarket Controller mit Support ihres Sensors gäbe, kam folgende Antwort:
+
+"You might take a look at the company Flipsky, who sell VESC controllers online.
+
+I think this controller will work with the Stromer motor also.
+
+We’re developing SW for this controller to accommodate our sensor, this will take a year probably."
+
+### Controller welche den Torque Sensor unterstützen
+
+Es wird des öfterenen erwähnt das der Phasrunner/Baserunner Controller der Fa. Grin Technolgies den Stromermotor unterstützt, ob man auch den Torque Sensor zum laufen kriegt ist noch unklar.
+
+https://ebikes.ca/shop/electric-bicycle-parts/controllers.html
