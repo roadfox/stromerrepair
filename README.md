@@ -57,8 +57,8 @@ http://www.idbike.com/sensors
 
 ### Specifications TMM Sensor Unit
 
-`Supply voltage: 	5 V
-Output voltage: 	0,1 V- 4,9 V 
+```Supply voltage: 	5 V
+Output voltage: 	0,1 V- 4,9 V
 Measuring range sensor unit: 	120 Nm ( High sensitivity) / 300 Nm  (medium sensitivity)
 Sensitivity TMM sensor unit: 	 40 Nm/V (High sensitivity)/ 100 Nm/V  (medium sensitivity)
 Tolerance on sensitivity: 	< 3 %
@@ -69,7 +69,8 @@ Effect of moisture: 	< 10 mV
 Operational temperature: 	-10 - 60 ºC
 Storage temperature: 	-40 - 85 ºC
 Durability: 	At least 10 million cycles
-Protection Class: 	IP66 >> protection aigainst water and dust`
+Protection Class: 	IP66 >> protection aigainst water and dust
+```
 
 Auf eine Anfrage an IDBike ob es denn aftermarket Controller mit Support ihres Sensors gäbe, kam folgende Antwort:
 
